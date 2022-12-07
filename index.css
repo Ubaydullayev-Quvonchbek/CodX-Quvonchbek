@@ -1,0 +1,487 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    position: relative;
+}
+
+.header {
+    margin-bottom: 350px;
+}
+
+.image {
+    width: 94px;
+    height: 31px;
+}
+
+.png_img1 {
+    position: absolute;
+    top: 198px;
+    right: 374px;
+    border-radius: 30px;
+}
+
+.png_img2 {
+    position: absolute;
+    top: 298px;
+    right: 120px;
+    border-radius: 30px;
+}
+
+.png_img3 {
+    position: absolute;
+    top: 192px;
+    right: 634px;
+    border-radius: 30px;
+}
+
+.png_img4 {
+    position: absolute;
+    top: 610px;
+    right: 455px;
+    border-radius: 30px;
+}
+
+.fa-brands {
+    padding-left: 23px;
+}
+
+.list {
+    display: flex;
+    margin: 0;
+}
+
+.list_item {
+    padding-left: 48px;
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 0.48px;
+    color: #222222;
+}
+
+.list_item a {
+    text-decoration: none;
+    color: #222222;
+}
+
+.bttn {
+    margin-left: 53px;
+    background: #2F2F2F;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 13px;
+    padding: 11px 15px;
+    border: none;
+    border-radius: 20px;
+}
+
+nav {
+    margin-top: 30px;
+}
+
+.df {
+    display: flex;
+}
+
+.m {
+    margin-left: 170px;
+}
+
+.mm {
+    margin-top: 241px;
+    margin-bottom: 0;
+    font-weight: 400;
+    font-size: 13px;
+    letter-spacing: 0.48px;
+    color: #82CBAC;
+}
+
+.kk {
+    font-weight: 400;
+    font-size: 64px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.gg {
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.hey {
+    font-weight: 400;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    padding-bottom: 25px;
+}
+
+.section1 {
+    margin-top: 221px;
+}
+
+.sus {
+    font-weight: 400;
+    font-size: 17px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    margin-bottom: 72px;
+}
+
+.jack {
+    margin-left: 68px;
+    margin-bottom: 68px;
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    background: #2F2F2F;
+    border: 1px solid #2F2F2F;
+    border-radius: 30px;
+    padding: 11px 66px;
+}
+
+.colin:hover {
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    background: #2F2F2F;
+    border: 1px solid #2F2F2F;
+    border-radius: 30px;
+    padding: 11px 66px;
+}
+
+.colin {
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    border: 1px solid #2F2F2F;
+    border-radius: 30px;
+    padding: 11px 66px;
+}
+
+.Digital {
+    margin-top: 60px;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.48px;
+    color: #FF7F96;
+}
+
+.Pellentesque {
+    font-weight: 400;
+    font-size: 36px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.Suspendisse {
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.humantop {
+    margin-bottom: 146px;
+}
+
+.humanbottom {
+    margin-bottom: 84px;
+}
+
+.our {
+    margin-top: 65px;
+    font-weight: 400;
+    font-size: 35px;
+    letter-spacing: 0.48px;
+    text-transform: uppercase;
+    color: #2F2F2F;
+    margin-bottom: 0;
+}
+
+.um {
+    font-weight: 400;
+    font-size: 48px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    margin-bottom: 38px;
+}
+
+.Nulla {
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.About_Codx {
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    background: #2F2F2F;
+    border-radius: 0px;
+    padding: 12px 40px;
+    border: none;
+    margin-left: 450px;
+}
+
+.usimage {
+    width: 1519px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.h01 {
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    background: #82CBAC;
+    border-radius: 30px;
+    border: none;
+    padding: 6px 20px;
+}
+
+.h02 {
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    border: none;
+    padding: 6px 20px;
+    background: #FF7F96;
+    border-radius: 30px;
+}
+
+.h03 {
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    border: none;
+    padding: 6px 20px;
+    background: #EAD71B;
+    border-radius: 30px;
+}
+
+.Motion {
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.Suspendisse {
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.section2 {
+    margin-top: 100px;
+}
+
+.Browse {
+    text-align: center;
+    margin-bottom: 73px;
+}
+
+.cardtext {
+    font-weight: 700;
+    font-size: 26px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.cardtext {
+    padding: 29px 164px 37px 50px;
+}
+
+.View_all {
+    text-align: center;
+    margin-top: 64px;
+    margin-bottom: 95px;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    background: #2F2F2F;
+    border-radius: 0px;
+    border: none;
+    padding: 12px 40px;
+}
+
+.TopNFT {
+    font-weight: 400;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    padding-right: 45px;
+    margin-bottom: 25px;
+}
+
+.card_text {
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.xash {
+    padding-left: 8px;
+    font-weight: 700;
+    font-size: 17px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+#fasolid1 {
+    background: rgba(168, 193, 216, 0.2);
+    padding: 11px 12px;
+    border: none;
+}
+
+#fasolid2 {
+    background: #FF7F96;
+    border-radius: 30px;
+    padding: 11px 12px;
+    border: none;
+}
+
+.cardg {
+    background: #FFFFFF;
+    box-shadow: 0px -4px 19px rgba(0, 0, 0, 0.03);
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.flx {
+    display: flex;
+}
+
+.mbottom {
+    margin-bottom: 42px;
+}
+
+.FAQ {
+    font-weight: 400;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    margin-right: 160px;
+}
+
+.accordion-button {
+    font-weight: 400;
+    font-size: 22px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.section4 {
+    margin-bottom: 230px;
+}
+
+.Join {
+    margin-top: 45.5px;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+#fab_rands {
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+.Site {
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    padding-bottom: 17px;
+}
+
+.moyu {
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+    padding-bottom: 8px;
+}
+
+.Stay {
+    font-weight: 400;
+    font-size: 35px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.sem {
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0.48px;
+    color: #2F2F2F;
+}
+
+.foot {
+    margin-right: 90px;
+}
+
+#Your_email {
+    background: #d4d4d4;
+    border-radius: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.48px;
+    color: black;
+    padding: 12px 169px 12px 32px;
+    border: none;
+}
+
+.up :focus {
+    border: none;
+}
+
+.up {
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    background: #2F2F2F;
+    border-radius: 20px;
+    padding: 11px 14px 13px 15px;
+    text-decoration: none;
+}
+
+.footr {
+    margin-bottom: 180px;
+}
